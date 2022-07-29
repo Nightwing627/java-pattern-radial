@@ -1,0 +1,12 @@
+Total: 181
+Solution: 1
+P18-5, P20-3, P21-3, P20-2, P24-2, 
+Total: 181
+Solution: 1
+P20-2, P21-3, P20-3, P18-5, P22-1, 
+Total: 181
+Solution: 1
+P22-1, P18-5, P20-3, P21-3, P20-2, 
+Total: 181
+Solution: 1
+P24-2, P20-2, P21-3, P20-3, P18-5, 
